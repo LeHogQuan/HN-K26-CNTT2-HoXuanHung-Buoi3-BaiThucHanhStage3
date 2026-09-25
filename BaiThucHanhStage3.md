@@ -1,5 +1,6 @@
 *) NHIỆM VỤ 1: TỰ KHÁM PHÁ BẢN THÂN
  Danh sách công việc trong 24 giờ qua
+
 | STT | Danh sách công việc | Thời gian làm |
 |---|---|---:|
 | 1 | Làm bài tập môn SSK101 | 60 phút |
@@ -12,6 +13,7 @@
 | 8 | Nhắn tin, trả lời tin nhắn | 30 phút |
 | 9 | Tập thể dục | 30 phút |
 | 10 | Dọn dẹp phòng và chuẩn bị đồ dùng | 30 phút |
+
 *)NHIỆM VỤ 2: PHÂN LOẠI & SẮP XẾP ƯU TIÊN
 Phần 2.1: Ma trận Eisenhower
 Ô 1: Quan trọng & Khẩn cấp
@@ -47,6 +49,7 @@ Phần 2.3: Điều chỉnh sau khi thảo luận
 Sau khi nghe góp ý từ các bạn, em có thể điều chỉnh thứ tự nếu nhận thấy một công việc có thời hạn gần hơn hoặc ảnh hưởng lớn hơn đến kết quả học tập.
 *)NHIỆM VỤ 3: LẬP LỊCH THỰC THI & TỐI ƯU SỰ TẬP TRUNG
 Lịch Time Blocking + Pomodoro
+
 | Khung giờ | Công việc thực hiện | Số phiên Pomodoro dự kiến | Nguyên tắc đơn nhiệm áp dụng |
 | 08:00 – 09:30 | Làm bài tập nhóm môn Quản trị | 3 phiên | Tắt thông báo Zalo/Facebook, chỉ tập trung vào bài nhóm |
 | 09:30 – 10:30 | Học và xem lại bài trên LMS | 2 phiên | Không mở mạng xã hội trong lúc học |
@@ -55,6 +58,7 @@ Lịch Time Blocking + Pomodoro
 | 15:30 – 19:30 | Nghỉ ngơi, ăn tối và hoạt động cá nhân | - | Hạn chế kiểm tra công việc trong thời gian nghỉ |
 | 19:30 – 21:00 | Chuẩn bị bài cho buổi học tiếp theo | 3 phiên | Để điện thoại xa chỗ học và chỉ làm một nhiệm vụ |
 | 21:00 – 21:30 | Kiểm tra lại công việc và chuẩn bị cho ngày hôm sau | 1 phiên | Chỉ kiểm tra danh sách công việc và lịch ngày mai |
+
 Nguyên tắc thực hiện
 - Mỗi phiên Pomodoro tập trung 25 phút, sau đó nghỉ 5 phút
 - Sau 4 phiên nên nghỉ dài khoảng 15–30 phút
