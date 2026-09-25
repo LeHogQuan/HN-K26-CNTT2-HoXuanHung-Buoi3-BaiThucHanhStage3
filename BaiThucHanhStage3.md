@@ -51,6 +51,7 @@ Sau khi nghe góp ý từ các bạn, em có thể điều chỉnh thứ tự n�
 Lịch Time Blocking + Pomodoro
 
 | Khung giờ | Công việc thực hiện | Số phiên Pomodoro dự kiến | Nguyên tắc đơn nhiệm áp dụng |
+|---|---|---|---|
 | 08:00 – 09:30 | Làm bài tập nhóm môn Quản trị | 3 phiên | Tắt thông báo Zalo/Facebook, chỉ tập trung vào bài nhóm |
 | 09:30 – 10:30 | Học và xem lại bài trên LMS | 2 phiên | Không mở mạng xã hội trong lúc học |
 | 10:30 – 14:00 | Nghỉ ngơi, ăn trưa và việc cá nhân | - | Không học trong thời gian nghỉ |
